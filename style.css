@@ -1,34 +1,54 @@
 body {
-    background-image: url(./bg.png);
+    background-image: url(./pictures/bg.png);
     background-size:cover;
 }
 
 #boom{
     position: relative;
-    left:40vw;
+    left:70vw;
+    top:20vw;
 
 }
 #clap{
+    position: relative;
+    left:80vw;
 
 }
 #hihat{
+    position: relative;
+    left:25vw;
+    top:11vw;
+
 
 }
 #kick{
-
+    position: relative;
+    left:40vw;
 }
 #openhat{
+    position: relative;
+    left:63vw;
+    top:5vw;
 
 }
 #ride{
+    position: relative;
+    left:40vw;
 
 }
 #snare{
+    position: relative;
+    left:36vw;
+    top:3vw;
 
 }
 #tink{
+    position: relative;
+    left:50vw;
 
 }
 #tom{
-
+    position: relative;
+    left:46.5vw;
+    top:3vw;
 }
